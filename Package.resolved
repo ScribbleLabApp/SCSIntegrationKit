@@ -1,0 +1,15 @@
+{
+  "originHash" : "d421172919717a60a1086b23b8b4c12d7d3ad218fa3fa6053f3807b2442d9ba1",
+  "pins" : [
+    {
+      "identity" : "scribblecoreservices-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ScribbleLabApp/ScribbleCoreServices-SDK.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "18be462234eef52de58674de6b63db1cd5943e7e"
+      }
+    }
+  ],
+  "version" : 3
+}

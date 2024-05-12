@@ -1,0 +1,413 @@
+                                            ScribbleLabApp Developer EULA
+                                            
+                                        Copyright (c) 2024, ScribbleLabApp
+
+    PLEASE READ THE FOLLOWING SCRIBBLE DEVELOPER PROGRAM LICENSE AGREEMENT TERMS AND CONDITIONS CAREFULLY BEFORE DOWNLOADING OR USING THE SCRIBBLE SOFTWARE OR SCRIBBLE SERVICES. THESE TERMS AND CONDITIONS CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU AND SCRIBBLE.
+
+                                    Scribble Developer Program License Agreement
+
+Purpose:
+You would like to participate in the Scribble Developer Program (hereinafter referred to as "Program") to develop software applications and extensions for ScribbleLabApp (hereinafter referred to as "ScribbleLabApp"). ScribbleLabApp is software developed by ScribbleLabApp, Inc. The Program provides you with access to beta releases of ScribbleLabApp, developer tools, and the opportunity to develop and distribute extensions for ScribbleLabApp. By enrolling in the Program and accessing the Scribble Software and Scribble Services, you agree to be bound by the terms and conditions set forth in this Agreement.
+
+1.    Defenition
+1.1.    "ScribbleLabApp Software": Refers to the software development kits, tools, APIs, and other materials provided by ScribbleLabApp for the purpose of enabling developers to create extensions for ScribbleLabApp.
+1.2.    "ScribbleLabApp Services": Refers to the services provided by ScribbleLabApp, including but not limited to access to beta releases, developer tools, and the ScribbleMarketplace.
+1.3.    "ScribbleLabApp": Refers to the software application developed by ScribbleLabApp, Inc., Which serves as the platform for extensions developed under the Program.
+1.4.    "Extensions": Refers to software applications, Plug-Ins, or Extensions developed by participants in the Program for use with ScribbleLabApp.
+1.5.    "ScribbleDeveloper ID": Refers to the unique identifier associated with a developer's account in the Scribble Developer Program.
+1.6.    "ScribbleMarketplace": Refers to the online marketplace operated by ScribbleLabApp where approved extensions can be distributed to users.
+1.7.    "ScribbleLink": Refers to the student management tool developed by ScribbleLabApp, Inc., which enables educators to manage student information, assignments, grades, and communications in an integrated platform.
+1.8     "SCSIntegrationKit": Refers to the Developer SDK by ScribbleLabApp Inc. which provides developers with necessary tools and resources to integrate ScribbleLab's services into their apps.
+1.9.    "ScribbleDeveloper": Refers to the editor for extensions developed by ScribbleLabApp, Inc., which provides developers with the necessary tools and resources to create, test, and debug extensions for ScribbleLabApp.
+1.10.    "ScribbleLabApp Developer Program License Agreement": Refers to this document, which outlines the terms and conditions governing participation in the Scribble Developer Program.
+1.11.    "License": Refers to the licensing terms applicable to the Scribble Software and Scribble Services, including but not limited to the Apache 2.0 License and ScribbleLabApp's custom End-User License Agreement (EULA).
+1.12.    "Developer": Refers to an individual or entity who enrolls in the Scribble Developer Program and utilizes the Scribble Software and ScribbleLabApp Services (declared in 1.2) to create, test, and distribute extensions for ScribbleLabApp.
+
+2.    Acceptance
+2.1.    By enrolling in the Scribble Developer Program and accessing the Scribble Software and Scribble Services, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement.
+2.2.    If you do not agree with any of these terms, you may not participate in the Program or use the ScribbleLabApp Software and ScribbleLabApp Services.
+
+3.    Enrollment and Access
+3.1.    Scribble Developer Program: The Scribble Developer Program is free and open to developers who wish to develop extensions for ScribbleLabApp.
+3.2.    Access to Beta Releases: As a participant in the Program, you will have access to the latest beta releases of ScribbleLabApp for testing purposes. You agree not to distribute or share these beta releases with third parties.
+3.3.    Developer Tools: The Program provides access to developer tools such as the scribble-cli and ScribbleDeveloper, which enable you to create and test extensions for ScribbleLabApp.
+3.4.    Creation of Extensions: Using ScribbleDeveloper, you can create extensions, also referred to as Plug-Ins or Extensions, for ScribbleLabApp.
+
+4.    Review and Distribution of Extension
+4.1.    Review Process: Before releasing an extension for ScribbleLabApp, you must request a review from our extension team. The extension will be tested for malware, viruses, and compliance with ScribbleDeveloper Extension Guidelines.
+4.2.    Submission and Approval: Extensions that pass the review process may be submitted to the ScribbleMarketplace for distribution to users. The extension will be made available for download after approval by our extension team.
+4.3.    Removal of Extensions: ScribbleLabApp reserves the right to block or remove any extension from the ScribbleMarketplace if it is found to be harmful to users' devices or violates our policies.
+
+5.    Pre-Releases of ScribbleLabApp
+5.1.    Usage Restrictions: You agree not to distribute or share beta releases of ScribbleLabApp with third parties. Beta releases may contain bugs and may not function as expected. ScribbleLabApp is not liable for any data loss or damage to your device resulting from the use of beta releases.
+
+6.    ScribbleDeveloper ID
+6.1.    Creation and Usage: A ScribbleDeveloper ID can be created on the ScribbleLab Developer site. This ID is associated with your ScribbleLab account and is used to enroll in the Scribble Developer Program. You agree not to share your ScribbleDeveloper ID or account credentials with third parties.
+
+7.    APIs, SDKs and Services
+7.1.    Access to APIs and SDKs: ScribbleLabApp provides access to documented APIs (Application Programming Interfaces) and SDKs (Software Development Kits) for developers enrolled in the Scribble Developer Program. These APIs and SDKs are designed to facilitate the integration of additional features and functionality into extensions developed for ScribbleLabApp.
+7.2.    Usage Restrictions: Developers are granted limited access to ScribbleLabApp APIs and SDKs solely for the purpose of creating extensions compatible with ScribbleLabApp. Any unauthorized use or distribution of ScribbleLabApp APIs and SDKs is strictly prohibited.
+7.3.    Core Services and Additional Functionality: ScribbleLabApp may offer additional core services and functionality beyond the documented APIs and SDKs. These core services and functionality may include features such as authentication, data storage, and communication protocols. Developers may utilize these core services and functionality within their extensions in accordance with the terms of this Agreement.
+7.4.    Third-Party Services: Developers may also integrate third-party services into their extensions, subject to the terms and conditions of the respective third-party service providers. However, it is essential that these third-party services meet the requirements outlined in ScribbleDeveloper Extension Review Guidelines. Developers are responsible for ensuring that any third-party services integrated into their extensions comply with these guidelines. ScribbleLabApp is not responsible for the availability, performance, or security of third-party services integrated into extensions.
+7.5.    Updates and Compatibility: ScribbleLabApp reserves the right to update or modify its APIs, SDKs, and core services at any time without prior notice. Developers are responsible for ensuring that their extensions remain compatible with any changes made to ScribbleLabApp APIs, SDKs, or core services.
+7.6.    Support and Documentation: ScribbleLabApp will provide developers with access to documentation, guides, and support resources to assist in the development and integration of extensions. Developers are encouraged to review and adhere to the guidelines provided by ScribbleLabApp to ensure the proper use of APIs, SDKs, and services.
+
+By accessing and utilizing ScribbleLabApp APIs, SDKs, and services, developers ACKNOWLEDGE AND AGREE TO COMPLY WITH THE TERMS AND CONDITIONS OUTLINED IN THIS AGREEMENT. FAILURE TO ADHERE TO THESE TERMS MAY RESULT IN THE TERMINATION OF ACCESS TO SCRIBBLELABAPP APIs, SDKs, AND SERVICES.
+
+8.    Ownership
+8.1.    Developer Ownership: As a developer participating in the Scribble Developer Program, you retain full ownership of the extensions you create under the Program.
+8.2.    ScribbleLabApp Ownership: However, it's important to acknowledge that ScribbleLabApp maintains complete ownership over its products and services, including the ScribbleLabApp application itself.
+8.3.    Cooperation Agreement: Any collaboration or cooperation between you and ScribbleLabApp during the development process of your extensions does not result in the transfer of ownership rights from you to ScribbleLabApp.
+8.4.    License Grant: By submitting your extensions for distribution through the ScribbleMarketplace or any other platform operated by ScribbleLabApp, you grant ScribbleLabApp a non-exclusive, worldwide, royalty-free license.
+8.5.    Purpose of License: This license enables ScribbleLabApp to use, reproduce, modify, adapt, publish, translate, distribute, and display your extensions. These actions are solely for the purpose of promoting, distributing, and improving ScribbleLabApp and its associated services.
+8.6.    Derivative Works: Additionally, this license extends to any derivative works created by ScribbleLabApp based on your extensions.
+8.7.    Independent Distribution: Despite granting ScribbleLabApp the license mentioned above, you retain the right to distribute your extensions independently of ScribbleLabApp.
+8.8.    Subject to Terms: However, any such independent distribution is subject to any applicable terms and conditions set forth by ScribbleLabApp or other relevant parties.
+
+9.    Confidentiality
+9.1.    Information Deemed ScribbleLabApp Confidential
+You agree that all pre-release versions of the ScribbleLabApp Software and Scribble Services (including pre-release Documentation), pre-release versions of ScribbleLab APIs, and the ScribbleLab Developer Kit will be deemed “ScribbleLabApp Confidential Information”; provided however that upon the commercial release of the ScribbleLabApp Software, the terms and conditions that disclose pre-release features of the ScribbleLabApp Software or services will no longer be confidential. Notwithstanding the foregoing, ScribbleLabApp Confidential Information will not include: (i) information that is generally and legitimately available to the public through no fault or breach of Yours, (ii) information that is generally made available to the public by ScribbleLabApp, (iii) information that is independently developed by You without the use of any ScribbleLabApp Confidential Information, (iv) information that was rightfully obtained from a third party who had the right to transfer or disclose it to You without limitation, or (v) any FOSS included in the ScribbleLabApp Software and accompanied by licensing terms that do not impose confidentiality obligations on the use or disclosure of such FOSS. Further, ScribbleLabApp agrees that You will not be bound by the foregoing confidentiality terms with regard to technical information about pre-release ScribbleLabApp Software and services disclosed by ScribbleLabApp at SWDC (ScribbleLabApp’s Worldwide Developers Conference), except that You may not post screenshots of, write public reviews of, or redistribute any pre-release ScribbleLabApp Software, Scribble Services or Trademarks.
+9.2.    Obligations Regarding ScribbleLabApp Confidential Information
+You agree to protect ScribbleLabApp Confidential Information using at least the same degree of care that You use to protect Your own confidential information of similar importance, but no less than a reasonable degree of care. You agree to use ScribbleLabApp Confidential Information solely for the purpose of exercising Your rights and performing Your obligations under this Agreement and agree not to use ScribbleLabApp Confidential Information for any other purpose, for Your own or any third party’s benefit, without ScribbleLabApp's prior written consent. You further agree not to disclose or disseminate ScribbleLabApp Confidential Information to anyone other than: (i) those of Your employees and contractors, or those of Your faculty and staff if You are an educational institution, who have a need to know and who are bound by a written agreement that prohibits unauthorized use or disclosure of the ScribbleLabApp Confidential Information; or (ii) except as otherwise agreed or permitted in writing by ScribbleLabApp. You may disclose ScribbleLabApp Confidential Information to the extent required by law, provided that You take reasonable steps to notify ScribbleLabApp of such requirement before disclosing the ScribbleLabApp Confidential Information and to obtain protective treatment of the ScribbleLabApp Confidential Information. You acknowledge that damages for improper disclosure of ScribbleLabApp Confidential Information may be irreparable; therefore, ScribbleLabApp is entitled to seek equitable relief, including injunction and preliminary injunction, in addition to all other remedies.
+9.3.    Information Submitted to ScribbleLabApp Not Deemed Confidential
+ScribbleLabApp works with many application and software developers, and some of their products may be similar to or compete with Your Extensions. ScribbleLabApp may also be developing its own similar or competing applications and products or may decide to do so in the future. To avoid potential misunderstandings and except as otherwise expressly set forth herein, ScribbleLabApp cannot agree, and expressly disclaims, any confidentiality obligations or use restrictions, express or implied, with respect to any information that You may provide in connection with this Agreement or the Program, including but not limited to information about Your Extension, Licensed Application Information, and metadata (such disclosures will be referred to as “Developer Disclosures”). You agree that any such Developer Disclosures will be non-confidential. Except as otherwise expressly set forth herein, ScribbleLabApp will be free to use and disclose any Developer Disclosures on an unrestricted basis without notifying or compensating You. You release ScribbleLabApp from all liability and obligations that may arise from the receipt, review, use, or disclosure of any portion of any Developer Disclosures. Any physical materials You submit to ScribbleLabApp will become ScribbleLabApp property, and ScribbleLabApp will have no obligation to return those materials to You or to certify their destruction.
+9.4.    Press Releases and Other Publicity
+You may not issue any press releases or make any other public statements regarding this Agreement, its terms and conditions, or the relationship of the parties without ScribbleLabApp’s express prior written approval, which may be withheld at ScribbleLabApp’s discretion.
+
+10.    Copy Policy
+10.1.    Restrictions on Distribution: As a participant in the Scribble Developer Program, you are strictly prohibited from distributing or sharing any copies of ScribbleLabApp Software. This restriction encompasses all versions of ScribbleLabApp, including beta releases, internal alpha versions, and any other pre-release iterations.
+10.2.    Scope of Prohibition: This prohibition extends to sharing ScribbleLabApp Software with third parties, whether for commercial gain or personal use.
+10.3.    Consequences of Violation: Any violation of this policy may result in legal action being taken against the infringing party. ScribbleLabApp reserves the right to pursue appropriate legal remedies to address instances of unauthorized distribution or sharing of ScribbleLabApp Software.
+10.4.    Protection of Intellectual Property: This policy is implemented to safeguard the intellectual property rights of ScribbleLabApp and ensure the integrity and security of ScribbleLabApp Software.
+10.5.    Compliance Obligation: By participating in the Scribble Developer Program, you agree to comply with this Copy Policy and refrain from engaging in any activities that contravene its provisions. Failure to adhere to these restrictions may result in the termination of your participation in the Program and other appropriate measures being taken by ScribbleLabApp to enforce its rights.
+
+11.     No Other Permitted Uses
+11.1.    Usage of Trademarks and Logos: You are granted limited rights to use ScribbleLabApp trademarks and logos solely for the purpose of symbolizing that your extensions are compatible with ScribbleLabApp Software.
+11.2.    Scope of Usage: These usage rights are strictly limited to activities directly related to indicating compatibility with ScribbleLabApp Software. This includes but is not limited to displaying ScribbleLabApp trademarks and logos on packaging, marketing materials, and promotional content associated with your extensions.
+11.3.    Prohibition on Unauthorized Usage: You are explicitly prohibited from using ScribbleLabApp trademarks, logos, or executables for any other purpose without obtaining prior written consent from ScribbleLabApp.
+11.4.    Written Consent Requirement: Any use of ScribbleLabApp trademarks, logos, or executables for purposes beyond those outlined in this Agreement requires explicit written consent from ScribbleLabApp.
+11.5.    Enforcement of Restrictions: ScribbleLabApp reserves the right to enforce these usage restrictions and take appropriate legal action against any unauthorized use of its trademarks, logos, or executables.
+11.6.    Protection of Brand Identity: These restrictions are implemented to protect the integrity and distinctiveness of the ScribbleLabApp brand identity and ensure consistent representation of ScribbleLabApp and its associated products and services.
+11.7.    Compliance Obligation: By participating in the Scribble Developer Program, you agree to comply with these usage restrictions and refrain from engaging in any activities that contravene its provisions. Failure to adhere to these restrictions may result in the termination of your participation in the Program and other appropriate measures being taken by ScribbleLabApp to enforce its rights.
+
+12.     Use of ScribbleLabApp Services
+12.1.    Compliance: You agree to use Scribble Services in compliance with applicable laws and regulations, as well as ScribbleLabApp's policies and guidelines.
+12.2.    Scope of Scribble Services: In addition to accessing APIs and SDKs, the Scribble Developer Program provides access to various Scribble Services designed to enhance the development and functionality of your extensions.
+12.3.    Specific Scribble Services
+12.3.1.    SignInWithScribbleLabApp (SIWSLA): This service allows users to sign in to your extensions using their ScribbleLabApp credentials, providing a seamless and secure authentication process.
+12.3.2.    SLC (Compiler): The slc Compiler is a development tool provided by ScribbleLabApp for compiling and building extensions developed using ScribbleDeveloper. It streamlines the development process by converting source code into executable files compatible with ScribbleLabApp.
+12.3.3.    SLGUIRenderer (GUI Renderer for extensions): SLGUIRenderer is a graphical user interface (GUI) renderer specifically designed for rendering user interfaces within extensions developed for ScribbleLabApp. It enables developers to create visually appealing and interactive interfaces for their extensions.
+12.3.4.    SLUpdate (Updater): SLUpdate is a service provided by ScribbleLabApp for managing and distributing updates to extensions. It ensures that users have access to the latest features and bug fixes, enhancing the overall user experience.
+12.4.    ScribbleDeveloper ID: The ScribbleDeveloper ID is a unique identifier associated with your ScribbleLab ID in the Scribble Developer Program. It grants you access to developer resources, tools, and services provided by ScribbleLabApp.
+12.5.    ScribbleLab ID: The ScribbleLab ID is a unique identifier associated with your user account in the ScribbleLab application. It allows you to sign in to your ScribbleLab account and access additional features and services offered by ScribbleLabApp.
+12.6.    Usage Guidelines: When utilizing Scribble Services, you are required to adhere to the usage guidelines and terms of service provided by ScribbleLabApp. Failure to comply with these guidelines may result in the suspension or termination of your access to Scribble Services.
+12.7.    Data Privacy and Security: You are responsible for ensuring the privacy and security of user data collected or processed through your extensions. Any data collected must be handled in accordance with applicable privacy laws and regulations, as well as ScribbleLabApp's privacy policy. It is essential to document the data collected and the purpose for which it is being used. Failure to provide proper documentation of collected data may result in the declination of your extension during the review process. Proper documentation ensures transparency and accountability in the handling of user data, which is crucial for maintaining user trust and complying with privacy standards.
+12.8.    Compliance Obligation: By using Scribble Services, you agree to comply with all applicable terms, guidelines, and regulations set forth by ScribbleLabApp. Failure to comply may result in disciplinary action, including but not limited to suspension or termination of access to Scribble Services.
+
+13.     Updates
+13.1.    Obligation to Update: As a participant in the Scribble Developer Program, you are required to promptly update your extensions to ensure compatibility with new releases of ScribbleLabApp. This obligation ensures that users can continue to enjoy seamless functionality and access the latest features offered by ScribbleLabApp without interruption.
+13.2.    APIs & Functionality: You are granted access to documented APIs provided by ScribbleLabApp, which allow you to integrate additional features or functionality into your extensions. These APIs serve as the building blocks for extending the capabilities of ScribbleLabApp, empowering you to create innovative and immersive experiences for users.
+13.3.    Compliance with Policies and Guidelines: When developing executable code and additional features for your extensions, it is imperative to ensure compliance with ScribbleLabApp's policies and guidelines. This includes adherence to coding standards, security best practices, and user experience guidelines established by ScribbleLabApp. By complying with these policies and guidelines, you can contribute to the overall quality and integrity of the ScribbleLabApp ecosystem.
+13.4.    Documentation and Documentation Requirements: It is essential to thoroughly document any updates made to your extensions, including changes to functionality, bug fixes, and performance enhancements. Proper documentation enables users and reviewers to understand the purpose and impact of the updates, facilitating transparency and accountability in the development process. Failure to provide adequate documentation may result in delays or rejection during the review process. Therefore, it is important to maintain comprehensive records of all updates and changes made to your extensions.
+
+14.     Term and Termination
+14.1.    Term: The Term of this Agreement shall extend until the one (1) year anniversary of the original activation date of Your Program account. Thereafter, subject to Your compliance with the terms of this Agreement, the Term will automatically renew for successive one (1) year terms at no additional charge, unless sooner terminated in accordance with this Agreement.
+14.2.    Termination: This Agreement and all rights and licenses granted by ScribbleLabApp hereunder and any services provided hereunder will terminate, effective immediately upon notice from ScribbleLabApp:
+(a) if You or any of Your Authorized Developers fail to comply with any term of this Agreement other than those set forth below in this Section 14.2 and fail to cure such breach within 30 days after becoming aware of or receiving notice of such breach;
+(b) if You or any of Your Authorized Developers fail to comply with the terms of Section 9 (Confidentiality);
+(c) in the event of the circumstances described in the subsection entitled “Severability” below;
+(d) if You, at any time during the Term, commence an action for patent infringement against ScribbleLabApp;
+(e) if You engage, or encourage others to engage, in any misleading, fraudulent, improper, unlawful or dishonest act relating to this Agreement, including, but not limited to, misrepresenting the nature of Your Extension (e.g., hiding or trying to hide functionality from Apple’s review, falsifying consumer reviews for Your Application, engaging in payment fraud, etc.).
+
+14.3.    Effect of Termination
+Upon the termination of this Agreement for any reason, You agree to immediately cease all use of the ScribbleLabApp Software and services and erase and destroy all copies, full or partial, of the ScribbleLabApp Software and any information pertaining to the services (including Your SignInWithScribbleLabApp credentials) and all copies of ScribbleLabApp Confidential Information in Your and Your Authorized Developers' possession or control. At ScribbleLabApp’s request, You agree to provide written certification of such destruction to ScribbleLabApp. Upon the expiration of the Delivery Period, all Licensed Extension and Licensed Extension Information in ScribbleLabApp’s possession or control shall be deleted or destroyed within a reasonable time thereafter, excluding any archival copies maintained in accordance with ScribbleLabApp’s standard business practices or required to be maintained by applicable law, rule or regulation. The following provisions shall survive any termination of this Agreement: Sections 1, 2.2, 4.3, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14.3, Attachment 1, Sections 1(i), 1(ii), 4(i), 7(i), Attachment 2, Sections xyz. ScribbleLabApp will not be liable for compensation, indemnity, or damages of any sort as a result of terminating this Agreement in accordance with its terms, and termination of this Agreement will be without prejudice to any other right or remedy ScribbleLabApp may have, now or in the future.
+
+15.    NO WARRANTY
+The ScribbleLabApp Software may contain inaccuracies or errors that could cause failures or loss of data and it may be incomplete. ScribbleLabApp and its licensors reserve the right to change, suspend, or remove any Services (or any part thereof) at any time without notice. In no event will ScribbleLabApp or its licensors be liable for the removal of any such Services. ScribbleLabApp or its licensors may also impose limits on the use of certain Services, or may remove the Services for indefinite time periods, or cancel the Services at any time, and in any case and without notice or liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SCRIBBLELABAPP SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. THE SCRIBBLELABAPP SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND SCRIBBLELABAPP, SCRIBBLELABAPP’S AGENTS AND SCRIBBLELABAPP'S LICENSORS (COLLECTIVELY REFERRED TO AS “SCRIBBLELABAPP” FOR THE PURPOSES OF SECTIONS 15 AND 16) HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE SCRIBBLELABAPP SOFTWARE, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, TIMELINESS, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. SCRIBBLELABAPP DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE SCRIBBLELABAPP SOFTWARE, THAT THE SCRIBBLELABAPP SOFTWARE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE SCRIBBLELABAPP SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, THAT DEFECTS OR ERRORS IN THE SCRIBBLELABAPP SOFTWARE WILL BE CORRECTED, OR THAT THE SCRIBBLELABAPP SOFTWARE WILL BE COMPATIBLE WITH ANY THIRD-PARTY SOFTWARE, APPLICATIONS, OR SERVICES. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SCRIBBLELABAPP OR A SCRIBBLELABAPP AUTHORIZED REPRESENTATIVE WILL CREATE A WARRANTY NOT EXPRESSLY STATED IN THIS AGREEMENT. SHOULD THE SCRIBBLELABAPP SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION. Neither ScribbleLabApp nor any of its licensors guarantees the availability, accuracy, completeness, reliability, or timeliness of location data or any other data or information displayed by any Services or software.
+
+16.     LIMITATION OF LIABILITY
+TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, IN NO EVENT WILL ScribbleLabApp BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO THIS AGREEMENT, YOUR USE OR INABILITY TO USE THE SCRIBBLELABAPP SOFTWARE, HOWEVER CAUSED, WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY, OR OTHERWISE, EVEN IF SCRIBBLELABAPP HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. In no event shall ScribbleLabApp’s total liability to You under this Agreement for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of fifty dollars ($50.00).
+
+By enrolling in the Scribble Developer Program and accessing the Scribble Software and Scribble Services, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement. If you do not agree with any of these terms, you may not participate in the Program or use the Scribble Software and Scribble Services.
+
+This Agreement is effective as of the date of enrollment in the Scribble Developer Program.
+
+
+                                                    Attachment 1
+                                                (to the Agreement)
+                                Additional Terms for Requirements and Usage Guidelines
+                                
+This document outlines the requirements and usage guidelines for ScribbleLab ID and ScribbleDeveloper ID provided by ScribbleLabApp. Developers utilizing these IDs must adhere to the terms and conditions specified herein to ensure proper usage and compliance with ScribbleLabApp's policies.
+
+1.    Registration Process
+(i) The acquisition of ScribbleLab ID or ScribbleDeveloper ID necessitates completion of the registration process, delineated by ScribbleLabApp.
+(ii) Eligibility criteria for registration encompass various aspects such as age restrictions, professional qualifications, and conformity with applicable laws and regulations.
+
+2.   Acceptable Use Policies
+(i) Users of ScribbleLab ID and ScribbleDeveloper ID must strictly adhere to acceptable use policies outlined by ScribbleLabApp.
+(ii) Prohibited activities encompass unauthorized access, distribution of malicious software, and infringement upon intellectual property rights, among other actions expressly forbidden.
+
+3. Security Measures and Data Protection
+(i) Developers are mandated to institute robust security measures to safeguard ScribbleLab ID and ScribbleDeveloper ID against unauthorized access or misuse.
+(ii) Adherence to data protection guidelines stipulated by ScribbleLabApp is imperative to ensure the confidentiality and integrity of user data.
+
+4. Compliance with Laws and Regulations
+(i) Usage of ScribbleLab ID and ScribbleDeveloper ID must conform meticulously to all relevant laws, regulations, and industry standards applicable within the jurisdiction.
+
+5. Enforcement Mechanisms
+(i) ScribbleLabApp retains the prerogative to enforce compliance with the stipulated requirements and usage guidelines through a range of mechanisms, inclusive of but not limited to, account suspension or termination.
+
+6. Review and Updates
+(i) It is incumbent upon developers to routinely review this document and remain cognizant of any amendments or updates instituted by ScribbleLabApp, thereby ensuring alignment with evolving requirements and guidelines.
+
+7. Conclusion
+(i) By conscientiously adhering to the provisions and directives elucidated within this document, developers can guarantee responsible and compliant utilization of ScribbleLab ID and ScribbleDeveloper ID provided by ScribbleLabApp. Non-compliance may result in disciplinary measures as deemed appropriate by ScribbleLabApp.
+
+8.         Additional Liability Disclaimer. SCRIBBLELABAPP SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM THE USE OF THE SCRIBBLELAB ID AND SCRIBBLEDEVELOPER ID, INCLUDING, BUT NOT LIMITED TO: (i) ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY), ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, OR OTHER INTANGIBLE LOSS; (ii) ANY CHANGES WHICH SCRIBBLELABAPP MAY MAKE TO THE SCRIBBLELAB ID OR SCRIBBLEDEVELOPER ID, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE SCRIBBLELAB ID OR SCRIBBLEDEVELOPER ID (OR ANY FEATURES WITHIN THEM); (iii) THE DELETION OF, CORRUPTION OF, OR FAILURE TO PROVIDE ANY DATA TRANSMITTED BY OR THROUGH YOUR USE OF THE SCRIBBLELAB ID OR SCRIBBLEDEVELOPER ID. It is Your responsibility to maintain appropriate alternate backup of all Your information and data,  including but not limited to any content provided to ScribbleLabApp for hosting services.
+
+                                                    Attachment 2
+                                                (to the Agreement)
+                                        Additional Terms for ScribbleMarketplace
+                                        
+This attachment outlines the additional terms and guidelines governing the use of ScribbleMarketplace, a platform provided by ScribbleLabApp for the distribution and sale of digital products, including but not limited to applications, software, and content.
+
+1.    Registration and Participation
+      (a) Developers seeking to distribute their products on ScribbleMarketplace must complete the registration process as outlined by ScribbleLabApp.
+      (b) Eligibility criteria for registration may include, but are not limited to, compliance with ScribbleLabApp's policies, submission of necessary documentation, and adherence to quality standards.
+
+2. Product Submission and Approval
+      (i) Developers are required to submit their products to ScribbleMarketplace for review and approval before they can be made available for distribution.
+      (ii) ScribbleLabApp reserves the right to reject or remove any product from ScribbleMarketplace that violates its policies, infringes upon intellectual property rights, or poses security risks.
+
+3. Pricing and Revenue Sharing
+      (iii) Developers can set the prices for their products on ScribbleMarketplace, subject to ScribbleLabApp's pricing guidelines.
+      (iv) ScribbleLabApp may retain a percentage (20%) of the revenue generated from sales on ScribbleMarketplace as outlined in the revenue sharing agreement between ScribbleLabApp and developers.
+
+4. Content Policies and Guidelines
+      (v) Products distributed on ScribbleMarketplace must adhere to ScribbleLabApp's content policies and guidelines, including but not limited to restrictions on offensive or inappropriate content, compliance with copyright laws, and inclusion of accurate product descriptions.
+
+5. Security and Privacy
+      (vi) Developers are responsible for implementing appropriate security measures to protect user data and ensure the integrity of transactions conducted on ScribbleMarketplace.
+      (vii) ScribbleLabApp may collect and process personal information from users of ScribbleMarketplace in accordance with its privacy policy.
+
+6. Enforcement and Dispute Resolution
+       (viii) ScribbleLabApp reserves the right to enforce compliance with these additional terms and guidelines through appropriate mechanisms, including but not limited to, product removal, account suspension, or legal action.
+       (ix) Disputes between developers and ScribbleLabApp regarding the use of ScribbleMarketplace shall be resolved in accordance with the dispute resolution procedures outlined in the Agreement.
+
+7. Amendments and Updates
+    ScribbleLabApp may update these additional terms and guidelines for ScribbleMarketplace from time to time. Developers will be notified of any changes, and continued use of ScribbleMarketplace constitutes acceptance of the updated terms.
+
+8. Conclusion
+    By participating in ScribbleMarketplace, developers agree to abide by these additional terms and guidelines established by ScribbleLabApp. Failure to comply may result in disciplinary actions, including the removal of products from ScribbleMarketplace or termination of access to the platform.
+
+9.         Additional Liability Disclamer: SCRIBBLELABAPP SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM THE USE OF SCRIBBLEMARKETPLACE AND ANY SERVICES PROVIDED THEREIN, INCLUDING, BUT NOT LIMITED TO, (I) ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY), ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, OR OTHER INTANGIBLE LOSS, (II) ANY CHANGES WHICH SCRIBBLELABAPP MAY MAKE TO SCRIBBLEMARKETPLACE OR ANY SERVICES, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF SCRIBBLEMARKETPLACE OR ANY SERVICES (OR ANY FEATURES WITHIN THE SERVICES) PROVIDED THEREWITH, OR (III) THE DELETION OF, CORRUPTION OF, OR FAILURE TO PROVIDE ANY DATA TRANSMITTED BY OR THROUGH YOUR USE OF SCRIBBLEMARKETPLACE OR SERVICES. It is Your responsibility to maintain appropriate alternate backup of all Your information and data, including but not limited to any digital products that You may provide to ScribbleLabApp for distribution on ScribbleMarketplace.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+                                                
+                                                APPENDIX
+                                            (to the Agreement)
+
+                        TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+      
+  10. To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+   END OF TERMS AND CONDITIONS
