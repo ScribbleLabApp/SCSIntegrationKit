@@ -14,16 +14,13 @@ let package = Package(
         .library(
             name: "SCSIntegrationKit",
             targets: ["SCSIntegrationKit"]),
-        .library(name: "SCSIntegrationKitUI", targets: ["SCSIntegrationKitUI"])
     ],
     dependencies: [
-        .package(url: "https://github.com/ScribbleLabApp/ScribbleCoreServices-SDK.git", branch: "main")
+        .package(url: "https://github.com/ScribbleLabApp/ScribbleCoreServices-SDK", branch: "main"),
     ],
     targets: [
         .target(
             name: "SCSIntegrationKit", dependencies: []),
-        .target(name: "SCSIntegrationKitUI",
-                dependencies: ["SCSIntegrationKit"]),
         .testTarget(
             name: "SCSIntegrationKitTests",
             dependencies: ["SCSIntegrationKit"]),
